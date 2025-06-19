@@ -15,7 +15,7 @@ Hệ thống chẩn đoán u não có 2 tác vụ chính là Classification và 
 Cloning the Repository:
 
 ```
-$ git clone 
+$ git clone git@github.com:PandaMinh/Cancer-Diagnosis.git
 
 ```
 
